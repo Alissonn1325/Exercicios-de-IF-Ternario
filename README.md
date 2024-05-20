@@ -1,2 +1,2 @@
 # Exercicios-de-IF-Ternario
-exercicios brabos
+Exercicios básicos utilizando IF & Else no Modo Ternario.
